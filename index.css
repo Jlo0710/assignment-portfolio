@@ -1,3 +1,40 @@
-.green {
-  color: green;
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #222222;
+	background-color: #ffffff;
+	max-width: 700px;
+	margin: 40px auto;
+	padding: 0 20px;
+	line-height: 1.6;
+}
+
+h1 {
+	font-size: 2rem;
+	margin-bottom: 10px;
+}
+
+h2 {
+	font-size: 1.4rem;
+	margin-top: 40px;
+	border-bottom: 2px solid #dddddd;
+	padding-bottom: 6px;
+}
+
+h3 {
+	font-size: 1.1rem;
+	margin-bottom: 4px;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+a {
+	color: #0056b3;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
